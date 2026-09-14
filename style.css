@@ -265,6 +265,7 @@ nav a:last-child::after {
     line-height: 40px;
     color: #595957;
     max-width: 50vw;
+    font-size: 20px;
 }
 
 
